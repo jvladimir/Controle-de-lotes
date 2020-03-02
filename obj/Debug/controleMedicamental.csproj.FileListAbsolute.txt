@@ -1,0 +1,11 @@
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\bin\Debug\controleMedicamental.exe.config
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\bin\Debug\controleMedicamental.exe
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\bin\Debug\controleMedicamental.pdb
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.csprojAssemblyReference.cache
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.Form1.resources
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.Properties.Resources.resources
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.csproj.GenerateResource.cache
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.exe
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.pdb
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\bin\Debug\MySql.Data.dll
+C:\Users\vladimir.bezerra\source\repos\controleMedicamental\obj\Debug\controleMedicamental.csproj.CopyComplete
